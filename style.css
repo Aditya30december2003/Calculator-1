@@ -1,0 +1,92 @@
+html,body{
+    color: white;
+    background-color: black;
+}
+.container{
+    color: white;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 50px;
+    width: 250px;
+    height: 500px;
+    background-color: #04022e;
+    border-radius: 20px;
+}
+
+.button{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin: 0px 4px;
+    color: white;
+    background-color: #04022e;
+    border: #04022e solid;
+    box-shadow:2px 2px 2px 2px#0c0c83;
+    cursor: pointer;
+}
+
+#zero{
+    padding-left: 20px;
+    text-align: left;
+    width:115px ;
+}
+
+h3{
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.question{
+    margin-top: 0px;
+    width: 200px;
+    height: 50px;
+    text-align: right;
+    background-color:#2c3942 ;
+    font-size: 40px;
+    color: white;
+    border-color:#2c3942 ;
+    border-width: 0px;
+}
+
+.answer{
+   width: 200px;
+   margin-top: 0px;
+   height: 35px;
+   text-align: right;
+   background-color:#2c3942 ;
+   margin-bottom:5px;
+   font-size: 20px;
+   color: white;
+   border-color:#2c3942 ;
+    border-width: 0px;
+}
+
+.row{
+    margin-top: 17px;
+}
+
+.ctop{
+   background-color: #2c3942;
+   border-radius: 20px;
+}
+
+.cbottom{
+    background-color:#04022e;
+}
+
+#colored{
+    color: #04022e;
+    background-color: white;
+    border-color:#ffffff ;
+    box-shadow:2px 2px 2px 2px rgba(114, 112, 112, 0.13);
+}
+
+#colored-equal{
+    color: white;
+    background-color: #f57200;
+    border-color:#f57200 ;
+    box-shadow: none;
+}
+
+
